@@ -30,9 +30,9 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 -   [Code Wars - Loops](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&r%5B%5D=-7&tags=Loops) Practice more loops
 -   [practice](https://www.codewars.com/users/MrZizoScream/authored)
 -   Optional: Watch these after you've learned about Objects
-    -   [Pass By Value, Pass By Reference](https://youtu.be/Casw_S_uOoE)
-    -   [Higher Order Functions I](https://youtu.be/FiEY_pb_cR0)
-    -   [Higher Order Functions II - Closure](https://youtu.be/pAtDHJs5bis)
+    -   [Pass By Value, Pass By Reference](https://youtu.be/nCGm8TXKaBk)
+    -   [Higher Order Functions I](https://youtu.be/OaQXmTmkMxw)
+    -   [Higher Order Functions II - Closure](https://youtu.be/-_7R_j61UZ0)
 
 ## Code War Links:
 
