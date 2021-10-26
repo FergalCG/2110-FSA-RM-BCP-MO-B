@@ -47,7 +47,7 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 ## **01 Introduction and Tidy Code**
 
-**[Live Lecture + Review](https://youtu.be/UXmszCJKUWU)**
+**[Live Lecture + Review](https://youtu.be/lgjocva0TI4)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ab7da028b8e9b000477fd36/content/5ab7dbafa468c900045db6ed/text)
 
