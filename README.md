@@ -8,9 +8,9 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 1. [Introduction And Tidy Code](#01-introduction-and-tidy-code)
 2. [Loops And Debugging](#02-loops-and-debugging)
-<!--3. [Coercion And Truthiness](#03-coercion-and-truthiness)
+3. [Coercion And Truthiness](#03-coercion-and-truthiness)
 4. [Caesar Cypher](#04-caesar-cypher)
-5. [Scope](#05-scope)
+<!--5. [Scope](#05-scope)
 6. [Arrays I](#06-arrays-I)
 7. [Arrays II](#07-arrays-ii)
 8. [Sudoku Validator](#08-sudoku-validator)
@@ -60,27 +60,27 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 **[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac571d2bd9f9e0004adb0a4/text)**
 
-<!--[Lecture Slides](Lecture-Slides/02-Loops-and-Debugging.pptx)
+[Lecture Slides](Lecture-Slides/02-Loops-and-Debugging.pptx)
 
 **[Live Lecture + Review](https://youtu.be/fyeNWLc7g0Q)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac572977ec3340004bddd57/text)
 
-[Solutions](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac57384f7ff470004a63170/text)-->
+[Solutions](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac57384f7ff470004a63170/text)
 
 
-<!--## **03 Coercion and Truthiness**
+## **03 Coercion and Truthiness**
 
 [Lecture Slides](Lecture-Slides/03-Coercion-and-Truthiness.pptx)
 
-**[Live Lecture + Review](https://youtu.be/nVWy1yakAuY)**
+**[Live Lecture + Review](https://youtu.be/0nX6VtAh9Uw)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5f24c8acfc4e3d00048aed53/content/5f24c8acfc4e3d00048aed59/text)
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5f24c8acfc4e3d00048aed53/content/5f24c8acfc4e3d00048aed5b/text)
 
 
-## **04 Caesar Cypher**
+<!--## **04 Caesar Cypher**
 
 **[Live Lecture (REACTO)](https://youtu.be/nRSler1WJbs)**
 
@@ -92,10 +92,10 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ed/text)
 
-[Solutions](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ee/text)
+[Solutions](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ee/text)-->
 
 
-## **05 Scope**
+<!--## **05 Scope**
 
 **[Live Lecture + Workshop Review](https://youtu.be/9ivgOb8gC6E)**
 
