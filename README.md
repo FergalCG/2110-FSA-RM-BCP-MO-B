@@ -86,7 +86,7 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 <!--**[Solution - Find Missing Number](https://youtu.be/20DegeggnKY)**-->
 
-[Lecture Slides](Lecture-Slides/04-REACTO.pptx)
+[Lecture Slides](Lecture-Slides/04-REACTO.pdf)
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ed/text)
 
