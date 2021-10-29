@@ -9,8 +9,8 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 1. [Introduction And Tidy Code](#01-introduction-and-tidy-code)
 2. [Loops And Debugging](#02-loops-and-debugging)
 3. [Coercion And Truthiness](#03-coercion-and-truthiness)
-<!--4. [Caesar Cypher](#04-caesar-cypher)
-5. [Scope](#05-scope)
+4. [Caesar Cypher](#04-caesar-cypher)
+<!--5. [Scope](#05-scope)
 6. [Arrays I](#06-arrays-I)
 7. [Arrays II](#07-arrays-ii)
 8. [Sudoku Validator](#08-sudoku-validator)
@@ -80,19 +80,17 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 [Solutions](https://learn.fullstackacademy.com/workshop/5f24c8acfc4e3d00048aed53/content/5f24c8acfc4e3d00048aed5b/text)
 
 
-<!--## **04 Caesar Cypher**
+## **04 Caesar Cypher**
 
-**[Live Lecture (REACTO)](https://youtu.be/nRSler1WJbs)**
+**[Live Lecture (REACTO) + Solution - Caesar Cypher](https://youtu.be/gEwa-XKYFZU)**
 
-**[Solution - Caesar Cypher](https://youtu.be/AN2fwt0n454)**
+<!--**[Solution - Find Missing Number](https://youtu.be/20DegeggnKY)**-->
 
-**[Solution - Find Missing Number](https://youtu.be/20DegeggnKY)**
-
-[Lecture Slides](Lecture-Slides/04-BCP-REACTO.pptx)
+[Lecture Slides](Lecture-Slides/04-REACTO.pptx)
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ed/text)
 
-[Solutions](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ee/text)-->
+[Solutions](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ee/text)
 
 
 <!--## **05 Scope**
