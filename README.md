@@ -97,7 +97,7 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 **[Live Lecture + Workshop Review](https://youtu.be/PdeonceLsDI)**
 
-**[Lecture Slides](Lecture-Slides/04-Scope.pptx)**
+**[Lecture Slides](Lecture-Slides/05-Scope.pptx)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/content/5ac576417ec3340004bdddb9/text)
 
@@ -108,7 +108,7 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 **[Live Lecture + Solutions](https://youtu.be/9C4qPsjl7sA)**
 
-**[Lecture Slides](Lecture-Slides/05-Arrays-I.pptx)**
+**[Lecture Slides](Lecture-Slides/06-Arrays-I.pptx)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/content/5ac57806bd9f9e0004adb18b/text)
 
@@ -119,7 +119,7 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 **[Live Lecture + Workshop Review](https://youtu.be/3qPyLAlVSRk)**
 
-**[Lecture Slides](Lecture-Slides/06-Arrays-II.pptx)**
+**[Lecture Slides](Lecture-Slides/07-Arrays-II.pptx)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde1a/text)
 
@@ -134,7 +134,7 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 **[Review](https://youtu.be/kYe2oNQmO04)**
 
-[Lecture Slides](08-sudoku-validator/08.BCP-Sudoku.pdf)
+[Lecture Slides](08-sudoku-validator/08-BCP-Sudoku.pdf)
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ad399aa137d870004733bac/content/5ad399aa137d870004733bb2/text)
 
