@@ -11,9 +11,9 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 3. [Coercion And Truthiness](#03-coercion-and-truthiness)
 4. [Caesar Cypher](#04-caesar-cypher)
 5. [Scope](#05-scope)
-<!--6. [Arrays I](#06-arrays-I)
+6. [Arrays I](#06-arrays-I)
 7. [Arrays II](#07-arrays-ii)
-8. [Sudoku Validator](#08-sudoku-validator)
+<!--8. [Sudoku Validator](#08-sudoku-validator)
 9. [Objects](#09-objects)
 10. [Object Methods](#10-object-methods)
 11. [Pass by Value/Pass by Reference](#11-pass-by-valuepass-by-reference)
@@ -47,6 +47,8 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 ## **01 Introduction and Tidy Code**
 
+**[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5ab7da028b8e9b000477fd36/content/5b2fd7715cc8770004dea4e0/text)**
+
 **[Live Lecture + Review](https://youtu.be/lgjocva0TI4)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ab7da028b8e9b000477fd36/content/5ab7dbafa468c900045db6ed/text)
@@ -71,6 +73,8 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 ## **03 Coercion and Truthiness**
 
+**[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5f24c8acfc4e3d00048aed53/content/5f24c8acfc4e3d00048aed57/text)**
+
 [Lecture Slides](Lecture-Slides/03-Coercion-and-Truthiness.pptx)
 
 **[Live Lecture + Review](https://youtu.be/0nX6VtAh9Uw)**
@@ -81,6 +85,8 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 
 ## **04 Caesar Cypher**
+
+**[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ec/text)**
 
 **[Live Lecture (REACTO) + Solution - Caesar Cypher](https://youtu.be/gEwa-XKYFZU)**
 
@@ -95,6 +101,8 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 ## **05 Scope**
 
+**[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/content/5ac576417ec3340004bdddb8/text)**
+
 **[Live Lecture + Workshop Review](https://youtu.be/PdeonceLsDI)**
 
 **[Lecture Slides](Lecture-Slides/05-Scope.pptx)**
@@ -104,7 +112,9 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/content/5ac576417ec3340004bdddba/text)
 
 
-<!--## **06 Arrays I**
+## **06 Arrays I**
+
+**[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/content/5ac57806bd9f9e0004adb18a/text)**
 
 **[Live Lecture + Solutions](https://youtu.be/9C4qPsjl7sA)**
 
@@ -117,7 +127,9 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 ## **07 Arrays II**
 
-**[Live Lecture + Workshop Review](https://youtu.be/3qPyLAlVSRk)**
+**[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde19/text)**
+
+<!--**[Live Lecture + Workshop Review](https://youtu.be/3qPyLAlVSRk)**
 
 **[Lecture Slides](Lecture-Slides/07-Arrays-II.pptx)**
 
