@@ -116,7 +116,7 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 **[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/content/5ac57806bd9f9e0004adb18a/text)**
 
-**[Live Lecture + Solutions](https://youtu.be/9C4qPsjl7sA)**
+**[Live Lecture + Solutions](https://youtu.be/oufdz2jemNM)**
 
 **[Lecture Slides](Lecture-Slides/06-Arrays-I.pptx)**
 
