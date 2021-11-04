@@ -13,8 +13,8 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 5. [Scope](#05-scope)
 6. [Arrays I](#06-arrays-I)
 7. [Arrays II](#07-arrays-ii)
-<!--8. [Sudoku Validator](#08-sudoku-validator)
-9. [Objects](#09-objects)
+8. [Sudoku Validator](#08-sudoku-validator)
+<!--9. [Objects](#09-objects)
 10. [Object Methods](#10-object-methods)
 11. [Pass by Value/Pass by Reference](#11-pass-by-valuepass-by-reference)
 12. [Higher Order Functions I](#12-higher-order-functions-i)
@@ -129,7 +129,7 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 **[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde19/text)**
 
-<!--**[Live Lecture + Workshop Review](https://youtu.be/3qPyLAlVSRk)**
+**[Live Lecture + Workshop Review](https://youtu.be/S2ALGy3WsYM)**
 
 **[Lecture Slides](Lecture-Slides/07-Arrays-II.pptx)**
 
@@ -140,7 +140,9 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 ## **08 Sudoku Validator**
 
-**[Live Lecture](https://youtu.be/LtkzMMOMtBM)**
+**[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5ad399aa137d870004733bac/content/5fd0f3b4a310070004b4ee60/text)**
+
+<!--**[Live Lecture](https://youtu.be/LtkzMMOMtBM)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ad399aa137d870004733bac/content/5ad399aa137d870004733bb1/text)
 
@@ -153,6 +155,8 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 ## **09 Objects**
 
+**[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/content/5ac57b3ebd9f9e0004adb214/text)**
+
 **[Live Lecture + Review](https://youtu.be/Ohx6js98fkE)**
 
 [Lecture Slides](Lecture-Slides/07-Objects.pptx)
@@ -164,6 +168,8 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 ## **10 Object Methods**
 
+**[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb24f/text)**
+
 **[Live Lecture](https://youtu.be/a9xth_Gj-Tw)**
 
 [Lecture Slides](Lecture-Slides/08-Object-Methods.pptx)
@@ -173,6 +179,8 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb250/text)
 
 ## **11 Pass by Value/Pass by Reference**
+
+**[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5aca3ccb37312200043b62bb/content/5aca3ccb37312200043b62c0/text)**
 
 **[Live Lecture](https://youtu.be/nCGm8TXKaBk)**
 
@@ -184,6 +192,8 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 ## **12 Higher Order Functions I**
 
+**[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5aca3eba37312200043b62f7/content/5aca3eba37312200043b62fc/text)**
+
 **[Live Lecture](https://youtu.be/OaQXmTmkMxw)**
 
 [Lecture Slides](Lecture-Slides/10-Higher-order-Functions-I.pptx)
@@ -193,6 +203,8 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 [Solutions](https://learn.fullstackacademy.com/workshop/5aca3eba37312200043b62f7/content/5aca3eba37312200043b62fd/text)
 
 ## **13 Higher Order Functions II**
+
+**[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5aca4075097e670004598a96/content/5aca4075097e670004598a9b/text)**
 
 **[Live Lecture](https://youtu.be/-_7R_j61UZ0)**
 
@@ -204,6 +216,8 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 ## **14 Recursion I**
 
+**[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5aca423037312200043b634a/content/5aca423137312200043b634f/text)**
+
 **[Live Lecture](https://youtu.be/J5lk5cmJlkM)**
 
 [Lecture Slides](Lecture-Slides/12-Recursion-I.pptx)
@@ -213,6 +227,8 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 [Solutions](https://learn.fullstackacademy.com/workshop/5aca423037312200043b634a/content/5aca423137312200043b6350/text)
 
 ## **15 Recursion II**
+
+**[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5aca509c37312200043b6422/content/5aca509c37312200043b6427/text)**
 
 **[Live Lecture](https://youtu.be/ebkwM9Oi5DI)**
 
