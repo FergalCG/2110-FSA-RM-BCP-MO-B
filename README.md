@@ -18,9 +18,9 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 <!--10. [Object Methods](#10-object-methods)
 11. [Pass by Value/Pass by Reference](#11-pass-by-valuepass-by-reference)
 12. [Higher Order Functions I](#12-higher-order-functions-i)
-13. [Higher Order Functions II](#13-higher-order-functions-ii)
+13. [Higher Order Functions II](#13-higher-order-functions-ii)-->
 14. [Recursion I](#14-recursion-i)
-15. [Recursion II](#15-recursion-ii)
+<!--15. [Recursion II](#15-recursion-ii)
 16. [Next Steps](#16-next-steps)-->
 
 ## Additional Resources
@@ -155,16 +155,16 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 **[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/content/5ac57b3ebd9f9e0004adb214/text)**
 
-<!--**[Live Lecture + Review](https://youtu.be/Ohx6js98fkE)**
+**[Live Lecture + Review](https://youtu.be/26vfeniYLkU)**
 
-[Lecture Slides](Lecture-Slides/07-Objects.pptx)
+[Lecture Slides](Lecture-Slides/09-Objects.pptx)
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/content/5ac57b3ebd9f9e0004adb215/text)
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/content/5ac57b3ebd9f9e0004adb216/text)
 
 
-## **10 Object Methods**
+<!--## **10 Object Methods**
 
 **[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb24f/text)**
 
@@ -210,42 +210,42 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca4075097e670004598a96/content/5aca4075097e670004598a9a/text)
 
-[Solutions](https://learn.fullstackacademy.com/workshop/5aca4075097e670004598a96/content/5aca4075097e670004598a9c/text)
+[Solutions](https://learn.fullstackacademy.com/workshop/5aca4075097e670004598a96/content/5aca4075097e670004598a9c/text)-->
 
-## **14 Recursion I**
+## **10 Recursion I**
 
 **[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5aca423037312200043b634a/content/5aca423137312200043b634f/text)**
 
-**[Live Lecture](https://youtu.be/J5lk5cmJlkM)**
+<!--**[Live Lecture](https://youtu.be/J5lk5cmJlkM)**
 
-[Lecture Slides](Lecture-Slides/12-Recursion-I.pptx)
+[Lecture Slides](Lecture-Slides/10-Recursion-I.pptx)
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca423037312200043b634a/content/5aca423137312200043b634e/text)
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5aca423037312200043b634a/content/5aca423137312200043b6350/text)
 
-## **15 Recursion II**
+## **11 Recursion II**
 
 **[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5aca509c37312200043b6422/content/5aca509c37312200043b6427/text)**
 
 **[Live Lecture](https://youtu.be/ebkwM9Oi5DI)**
 
-[Lecture Slides](Lecture-Slides/13-Recursion-II.pptx)
+[Lecture Slides](Lecture-Slides/11-Recursion-II.pptx)
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca509c37312200043b6422/content/5aca509c37312200043b6426/text)
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5aca509c37312200043b6422/content/5aca509c37312200043b6428/text)
 
-## **16 Next Steps**
+## **12 Next Steps**
 
 **[Live Lecture](https://youtu.be/vcxvM_paMKI)**
 
-[Lecture Slides](Lecture-Slides/14-Next-Steps.pptx)
+[Lecture Slides](Lecture-Slides/12-Next-Steps.pptx)
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca5637c6f1bb0004fcdab0/landing)
 
 
-##### 4. [Workshop Questions & Solutions](09-objects/Q-object-methods-workshop-and-solutions-links.md)
+<!--##### 4. [Workshop Questions & Solutions](09-objects/Q-object-methods-workshop-and-solutions-links.md)
 
 ## **Pass By Value, Pass By Reference - Optional Advanced Lecture 1**
 
@@ -292,4 +292,5 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 [Lecture Slides](12-next-steps/next-steps.pdf)
 
 **[Live Lecture](https://youtu.be/Hx29z2bjK1A)**
+-->
 -->
