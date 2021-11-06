@@ -17,7 +17,7 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 9. [Objects](#09-objects)
 10. [Recursion I](#14-recursion-i)
 11. [Recursion II](#15-recursion-ii)
-12. [Next Steps](#16-next-steps)-->
+12. [Next Steps](#16-next-steps)
 <!--[Object Methods](#10-object-methods)
 11. [Pass by Value/Pass by Reference](#11-pass-by-valuepass-by-reference)
 12. [Higher Order Functions I](#12-higher-order-functions-i)
