@@ -15,7 +15,7 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 7. [Arrays II](#07-arrays-ii)
 8. [Sudoku Validator](#08-sudoku-validator)
 9. [Objects](#09-objects)
-10. [Recursion I](#14-recursion-i)
+10. [Recursion I](#10-recursion-i)
 <!--11. [Recursion II](#15-recursion-ii)
 12. [Next Steps](#16-next-steps)-->
 <!--[Object Methods](#10-object-methods)
