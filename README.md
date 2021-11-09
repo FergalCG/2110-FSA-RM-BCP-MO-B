@@ -16,8 +16,8 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 8. [Sudoku Validator](#08-sudoku-validator)
 9. [Objects](#09-objects)
 10. [Recursion I](#10-recursion-i)
-<!--11. [Recursion II](#15-recursion-ii)
-12. [Next Steps](#16-next-steps)-->
+11. [Recursion II](#15-recursion-ii)
+<!--12. [Next Steps](#16-next-steps)-->
 <!--[Object Methods](#10-object-methods)
 11. [Pass by Value/Pass by Reference](#11-pass-by-valuepass-by-reference)
 12. [Higher Order Functions I](#12-higher-order-functions-i)
@@ -218,7 +218,7 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 **[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5aca423037312200043b634a/content/5aca423137312200043b634f/text)**
 
-<!--**[Live Lecture](https://youtu.be/J5lk5cmJlkM)**
+**[Live Lecture](https://youtu.be/b6eY8jARpQQ)**
 
 [Lecture Slides](Lecture-Slides/10-Recursion-I.pptx)
 
@@ -230,7 +230,7 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 **[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5aca509c37312200043b6422/content/5aca509c37312200043b6427/text)**
 
-**[Live Lecture](https://youtu.be/ebkwM9Oi5DI)**
+<!--**[Live Lecture](https://youtu.be/ebkwM9Oi5DI)**
 
 [Lecture Slides](Lecture-Slides/11-Recursion-II.pptx)
 
