@@ -17,7 +17,7 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 9. [Objects](#09-objects)
 10. [Recursion I](#10-recursion-i)
 11. [Recursion II](#15-recursion-ii)
-<!--12. [Next Steps](#16-next-steps)-->
+12. [Next Steps](#16-next-steps)
 <!--[Object Methods](#10-object-methods)
 11. [Pass by Value/Pass by Reference](#11-pass-by-valuepass-by-reference)
 12. [Higher Order Functions I](#12-higher-order-functions-i)
@@ -230,7 +230,7 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 **[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5aca509c37312200043b6422/content/5aca509c37312200043b6427/text)**
 
-<!--**[Live Lecture](https://youtu.be/ebkwM9Oi5DI)**
+**[Live Lecture](https://youtu.be/1jMWGGNs-C0)**
 
 [Lecture Slides](Lecture-Slides/11-Recursion-II.pptx)
 
@@ -240,7 +240,7 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 ## **12 Next Steps**
 
-**[Live Lecture](https://youtu.be/vcxvM_paMKI)**
+<!--**[Live Lecture](https://youtu.be/vcxvM_paMKI)**
 
 [Lecture Slides](Lecture-Slides/12-Next-Steps.pptx)
 
