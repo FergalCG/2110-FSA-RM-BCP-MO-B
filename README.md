@@ -240,7 +240,7 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 ## **12 Next Steps**
 
-<!--**[Live Lecture](https://youtu.be/vcxvM_paMKI)**
+**[Live Lecture](https://youtu.be/F_3uDjBGU14)**
 
 [Lecture Slides](Lecture-Slides/12-Next-Steps.pptx)
 
